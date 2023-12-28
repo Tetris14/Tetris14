@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my freelance projects**
 
-- 🌱 I’m currently learning **React JS, Native**
+- 🌱 I’m currently learning **Nest TS, React TS**
 
 - 👨‍💻 All of my projects are available at [www.tristangory.vip](www.tristangory.vip)
 
