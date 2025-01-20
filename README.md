@@ -7,17 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **my freelance projects**
+- 🔭 I’m currently working for **Bodih**
 
 - 🌱 I’m currently learning **Nest TS, React TS**
 
-- 👨‍💻 All of my projects are available at [www.tristangory.vip](www.tristangory.vip)
-
-- 💬 Ask me about **C / C++ and Dogs**
-
 - 📫 How to reach me **gory.tristan92@gmail.com**
-
-- ⚡ Fun fact **All my clients are very happy about my work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
