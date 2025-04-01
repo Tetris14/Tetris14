@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tristan</h1>
-<h3 align="center">I love web dev and dogs</h3>
+<h3 align="center">I love dev, dogs and lighthouses</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tetris14&label=Profile%20views&color=0e75b6&style=flat" alt="tetris14" /> </p>
 
