@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working for **Bodih**
+- 🔭 I’m currently working for **Kayba**
 
-- 🌱 I’m currently learning **Nest TS, React TS**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **gory.tristan92@gmail.com**
 
