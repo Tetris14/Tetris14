@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tetris14
+# 👋 Hi, I'm Tristan Gory
 
 I'm a passionate **Backend Developer** who loves building scalable systems that make integration a breeze.
 
